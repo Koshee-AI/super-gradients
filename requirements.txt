@@ -32,7 +32,7 @@ wheel>=0.38.0
 # not directly required, pinned by Snyk to avoid a vulnerability
 pygments>=2.7.4
 stringcase>=1.2.0
-numpy<=1.23
+numpy==1.23.1
 rapidfuzz
 json-tricks==3.16.1
 onnx-simplifier>=0.3.6,<1.0
